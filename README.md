@@ -18,7 +18,11 @@ Install homebrew:
 ```
 Install SDL:
 ```
-brew install sdl2 && sdl2_gfx
+brew install sdl2
+brew install sdl2_gfx
+brew install sdl2_ttf
+brew install sdl2_image
+brew install sdl2_mixer
 ```
 ## Execution
 Make sure you are in the root of the repository.
