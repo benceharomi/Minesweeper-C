@@ -18,8 +18,7 @@ Install homebrew:
 ```
 Install SDL:
 ```
-brew install sdl2
-brew install sdl2_gfx
+brew install sdl2 && sdl2_gfx
 ```
 ## Execution
 Make sure you are in the root of the repository.
